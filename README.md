@@ -55,7 +55,7 @@ The project uses Microsoft Excel, MySQL, and Power BI to prepare data, perform S
 
 ## Dashboard Preview
 
-![Superstore Power BI Dashboard](Superstore_Dashboard.png)
+![Superstore Dashboard](Screenshot%202026-10-26%20115123.png)
 
 ## Conclusion
 This project demonstrates an end-to-end data analysis workflow using Excel, MySQL, and Power BI to explore sales performance, profitability, and business trends.
